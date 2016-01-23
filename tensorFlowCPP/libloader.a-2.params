@@ -1,0 +1,3 @@
+rcsD
+bazel-out/local_linux-fastbuild/bin/tensorflow/loader/libloader.a
+bazel-out/local_linux-fastbuild/bin/tensorflow/loader/_objs/loader/tensorflow/loader/loader.pic.o

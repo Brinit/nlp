@@ -1,0 +1,2 @@
+bazel-out/local_linux-fastbuild/bin/tensorflow/loader/_objs/loader/tensorflow/loader/loader.pic.o
+-lstdc++
